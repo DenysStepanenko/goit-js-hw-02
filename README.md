@@ -1,3 +1,3 @@
-# goit-js-hw-01
+# goit-js-hw-02
 
-This is my first js HW!
+This is my second js HW!
